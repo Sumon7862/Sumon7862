@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Sumon7862">
-    <img src="https://komarev.com/ghpvc/?username=kibria900&label=Profile%20views&color=0e75b6&style=flat" alt="Sumon7862" />
+    <img src="https://komarev.com/ghpvc/?username=Sumon7862&label=Profile%20views&color=0e75b6&style=flat" alt="Sumon7862" />
   </a>
 </p>
 
@@ -42,9 +42,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kibria900&show_icons=true&theme=github_dark" alt="kibria900 GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kibria900&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibria900&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumon7862&show_icons=true&theme=github_dark" alt="Sumon7862 GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumon7862&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon7862&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
@@ -52,13 +52,13 @@
 ## 🔗 Connect with Me
 
 <p>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+  <a href="https://facebook.com/your-facebook" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
