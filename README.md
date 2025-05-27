@@ -12,10 +12,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Passionate about building scalable web and mobile applications  
-- 💡 Skilled in **Java, JavaScript, Node.js, React, and Android Development**  
+- 💡 Skilled in **JavaScript, Node.js, and React.**  
 - ☁️ Experienced with **Firebase Authentication, Firestore, and Realtime Database**  
-- 🎨 Crafting responsive UIs with **Tailwind CSS**, **Bootstrap**, and **HTML/CSS**  
-- ⚙️ Solid foundation in **C/C++** and problem solving  
+- 🎨 Crafting responsive UIs with **Tailwind CSS**, **Bootstrap**, and **HTML/CSS**   
 - 🔭 Currently diving deeper into backend architecture & cloud integration  
 - ✍️ Always learning, always growing 🚀  
 
